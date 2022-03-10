@@ -1,13 +1,13 @@
 local L = BigWigs:NewBossLocale("Artificer Xy'mox v2", "ruRU")
 if not L then return end
 if L then
-	--L.traps = "Traps" -- Stasis Trap
-	--L.sparknova = "Sparknova" -- Hyperlight Sparknova
-	--L.relocation = "Tank Bomb" -- Glyph of Relocation
-	--L.relocation_count = "%s S%d (%d)" -- Tank Bomb S1 (1) // Tank Bomb (stage)(count)
-	--L.wormholes = "Wormholes" -- Interdimensional Wormholes
-	--L.wormhole = "Wormhole" -- Interdimensional Wormhole
-	--L.rings = "Rings S%d" -- Rings S1 // Forerunner Rings Stage 1/2/3/4
+	--L.traps = "Ловушки" -- Stasis Trap
+	--L.sparknova = "Слепящее кольцо гиперсвета" -- Hyperlight Sparknova
+	--L.relocation = "Символ перемещения" -- Glyph of Relocation
+	--L.relocation_count = "%s S%d (%d)" -- Символ перемещения S1 (1) // Символ перемещения (stage)(count)
+	--L.wormholes = "Порталы" -- Interdimensional Wormholes
+	--L.wormhole = "Портал" -- Interdimensional Wormhole
+	--L.rings = "Кольца S%d" -- Rings S1 // Forerunner Rings Stage 1/2/3/4
 end
 
 L = BigWigs:NewBossLocale("Dausegne, the Fallen Oracle", "ruRU")
